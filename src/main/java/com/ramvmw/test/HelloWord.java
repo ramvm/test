@@ -25,15 +25,15 @@ public class HelloWord
 
         if(hour >= 0 && hour <= 11)
         {
-            System.out.println("Good afternoon");
+            System.out.println("Good afternoon :D.");
         }
         else if(hour >= 12 && hour <= 17)
         {
-            System.out.println("Good afternoon");
+            System.out.println("Good afternoon :D.");
         }
         else if(hour >= 18 && hour <= 23)
         {
-            System.out.println("Good evening");
+            System.out.println("Good evening :D.");
         }
     }
 }
