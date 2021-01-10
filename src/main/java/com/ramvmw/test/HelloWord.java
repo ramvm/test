@@ -9,10 +9,10 @@ public class HelloWord
         HelloWord helloWord;
 
         helloWord = new HelloWord();
-
         System.out.println("Hello word!");
 
         helloWord.Greeting();
+        System.out.println("Good bye!");
     }
 
     private void Greeting()
